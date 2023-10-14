@@ -1,0 +1,20 @@
+{
+  "Product": [
+    {
+      "id": "1",
+      "title": "iphone",
+      "brand": "Apple",
+      "price": "1,50,000",
+      "description": "(128GB)Blue",
+      "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg "
+    },
+    {
+      "id": "2",
+      "title": "chudidhar",
+      "brand": "Boochi",
+      "price": "50000",
+      "description": "pink and white",
+      "image": "http://chudidhar.com"
+    }
+  ]
+}
